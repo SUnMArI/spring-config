@@ -1,4 +1,6 @@
 spring:
+    application:
+        name: spring-cloud-server
     datasource:
       url: jdbc:postgresql://localhost:5433/test
       username: postgres
