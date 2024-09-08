@@ -1,0 +1,2 @@
+someService:
+  sharedValue: "This is a shared value"
